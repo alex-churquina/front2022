@@ -1,0 +1,18 @@
+.Cabeza{
+        height: 100px;
+        background-color: blueviolet;
+}
+
+.Cuerpo{
+    height: 400px;
+    background-color: aqua;
+}
+
+.Pie{
+    height: 50px;
+    background-color: blue;
+}
+
+.borde{
+    border: 3px solid black;
+}
