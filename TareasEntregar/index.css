@@ -1,0 +1,24 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.bloque1{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.bloque2{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+
+.bloque3{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+}
