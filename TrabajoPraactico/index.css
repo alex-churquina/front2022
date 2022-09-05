@@ -1,0 +1,47 @@
+html,
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+  }
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+
+
+#enlace {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    height: 15vh;
+  }
+#enlace .mercado {
+    font-size: 2rem;
+    width: 40%;
+  }   
+#enlace h1 a {
+    color: red;
+  }
+#enlace ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+  }
+#enlace ul li a {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2rem;
+  }
+#enlace ul li a:hover {
+    color: #f14a16;
+  }
