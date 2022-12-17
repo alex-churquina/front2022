@@ -48,11 +48,11 @@ async function mostrarUno(id){
 }
 
 let misDatos ={
-    "nombre":"Dario",
-    "apellido":"Lopez",
+    "nombre":"Alex",
+    "apellido":"Churquina",
     "area":"Developed",
     "domicilio":"Rio Grande",
-    "foto":"https://http2.mlstatic.com/D_NQ_NP_809466-MLA46695132291_072021-O.jpg",
+    "foto":"https://images.ecestaticos.com/0W5VIvMZgSYBwClhBKAuYycoZL4=/274x65:2230x1532/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d9%2Fe25%2Ff3f%2F7d9e25f3f6551a04094f612db9171f20.jpg",
     "id":"3"
 }
 

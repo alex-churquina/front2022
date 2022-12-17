@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(59, 58, 58);
+    background-color: rgb(57, 35, 35);
     color:bisque;
 }
 
@@ -14,28 +14,28 @@ body {
 }
 
 td {
-    border: 1px solid rgb(206, 198, 243);
-    width: 240px;
+    border: 1px solid rgb(5, 5, 5);
+    width: 300px;
     justify-content: center;
     text-align: center; 
 }
 th {
     border: 2px solid rgb(201, 192, 243);
-    width: 240px; 
+    width: 400px; 
     justify-content: center;
     text-align: center;
 }
 
 
 .solo_uno {
-    background-color: rgb(99, 97, 97);
-    border: 3px solid rgb(248, 113, 2);
+    background-color: rgb(160, 12, 12);
+    border: 3px solid rgb(151, 81, 24);
     display: flex;
     flex-direction: row;
     justify-content:space-around;
     align-items: center;
-    width: 750px;
-    height: 435px;
+    width: 1200px;
+    height: 400px;
     color:rgb(33, 1, 92);
     font-size: 30px;
        
@@ -59,18 +59,18 @@ box-shadow: 0 0 2px 1px rgba(250, 246, 2, 0.897);
 }
 
 button {
-        background: #fff; /* color de fondo */
-        color: #4741d7; /* color de fuente */
-        border: 2px solid #4741d7; /* tamaño y color de borde */
+        background: rgb(87, 8, 8); 
+        color: #09090c; 
+        border: 2px solid #4741d7; 
         padding: 16px 20px;
-        border-radius: 3px; /* redondear bordes */
+        border-radius: 3px;
         position: relative;
         z-index: 1;
         overflow: hidden;
         display: inline-block;
       }
 button:hover {
-    color: #fff; /* color de fuente hover */
+    color: rgb(194, 14, 14); /* color de fuente hover */
       }
 button::after {
         content: "";
